@@ -1,0 +1,2 @@
+model_checkpoint_path: "d:/dev/deeplearning/tensorflow-test/model.ckpt"
+all_model_checkpoint_paths: "d:/dev/deeplearning/tensorflow-test/model.ckpt"
